@@ -1,3 +1,3 @@
 variable "user_names" {
-  default = ["tola", "sarah", "titi", "keye"]
+  default = ["tola", "sam", "sarah", "titi", "keye"]
 }
